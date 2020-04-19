@@ -5976,4 +5976,7 @@ div#filters {
     position: relative;
     top: -15px;
 }
+.footer-widgets .social-box {
+    float: none;
+}
 
