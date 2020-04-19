@@ -1,4 +1,4 @@
-# Recycling DApp
+# Recycling ÐApp
 Decentralised Waste Management Application of Era Swap Ecosystem
 
 ### Steps for updating the website
