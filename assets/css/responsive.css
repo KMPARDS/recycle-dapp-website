@@ -495,16 +495,31 @@
 		margin-top: 120px;
 	}
 	
-
-	
-	
+    .logoimg {
+		height:60px;
+		position: relative;
+		top: 0;
+	}
+	.show-res-logo {
+    float: left;
+    margin-right: 35px;
+	}
+	.one-page .main-menu .navbar-collapse {
+		float: right;
+	}
+	.navbar-brand > img {
+		width: auto;
+	}
 }
 
 @media screen and (max-width: 768px) {
 	
 	/*================ Header ===============*/
 	
-	
+	.logoimg {
+		width:auto !important;
+		top: -3px;
+	}
 	
 	.header-style-1 .cart-option{
 		display: none;
