@@ -5980,3 +5980,10 @@ div#filters {
     float: none;
 }
 
+.otherlinks li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    margin-left: 15px;
+}
